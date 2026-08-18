@@ -701,6 +701,9 @@ function keyboard(e) {
         case "9":
             setAreaTo = "L001_L017_PT_LW";
             break;
+        case "0":
+            setAreaTo = "L003_L015_L016_ZI_KU_SK";
+            break;
         case "e":
             setAreaTo = "Settings";
             break;
